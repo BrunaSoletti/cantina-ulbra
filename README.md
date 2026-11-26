@@ -1,7 +1,7 @@
 # 🍔 Cantina ULBRA API
 
-**Integrantes:** Bruna Alexsandra Soletti
-**Disciplina:** Desenvolvimento Back-End — Aula 6
+**Integrantes:** Bruna Alessandra Soletti  
+**Disciplina:** Desenvolvimento Back-End — Aula 6  
 **Professor:** Victor Costa Melo
 
 ## Tecnologias Utilizadas

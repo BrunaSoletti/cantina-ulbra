@@ -424,9 +424,3 @@ O uso de transação garante **atomicidade**: ou as duas operações acontecem j
 ## 🎓 Trabalho acadêmico
 
 Projeto desenvolvido como atividade prática da disciplina de Desenvolvimento Back-End — Aula 6, da ULBRA.
-
-Nesse processo, o pedido é registrado e o estoque do produto é atualizado. A utilização de transações garante que as operações sejam realizadas em conjunto, evitando inconsistências no banco de dados caso ocorra algum erro durante a execução.
-
-## 🎓 Trabalho acadêmico
-
-Projeto desenvolvido como atividade prática da disciplina de Desenvolvimento Back-End — Aula 6, da ULBRA.
